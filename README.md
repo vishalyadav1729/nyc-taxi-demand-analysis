@@ -109,7 +109,7 @@ I created plots to better understand the data and the model results, including:
 
 ### 2. Linear Regression
 
-### 3. Hist Gradint Boosting Regression
+### 3. Hist Gradient Boosting Regression
 ---
 
 ## Results
